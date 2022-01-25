@@ -1,4 +1,4 @@
-# sbicits
+# scibits
 #Documento de guía sobre el proyecto.
 
 ## ¿Qué hay en éste repositorio?
